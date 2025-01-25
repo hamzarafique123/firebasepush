@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375853489921",
+    "project_id": "fir-2-7ce90",
+    "storage_bucket": "fir-2-7ce90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375853489921:android:d4ae8f0921e553494b4500",
+        "android_client_info": {
+          "package_name": "com.technyks.testFCMApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDazz26gtfPQ7MdKDO4Bjx_wdBvRa7vaxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
